@@ -151,3 +151,19 @@ Using AudioShake's API technology to integrate directly into DAWs in both their 
 By embedding AudioShake directly into these popular mainstream platforms, the tool becomes a natural extension of the music production process, increasing its usability and adoption. Furthermore, APIs allow for scalable and flexible solutions that can adapt to various DAWs, catering to a wide range of users and use cases within the music production community.
 
 Other than the strategic growth objectives I suggested above, this approach leverages AudioShake's existing technologies' strengths and addresses the needs of music producers, ensuring AudioShake remains a valuable and innovative tool in the music production landscape.
+
+
+## References
+1. AudioShake Website: https://www.audioshake.ai/
+2. AudioShake Team: https://www.audioshake.ai/team
+3. SoundBreaker Podcast on AudioShake's YouTube Channel: https://www.youtube.com/watch?v=2o-7XPlBtnU
+4. Crunchbase, AudioShake Funding News: https://www.crunchbase.com/organization/audioshake/signals_and_news
+5. AudioShake Case Studies: https://www.audioshake.ai/case-studies
+6. Grand View Research on LinkedIn about Music Production Software Market Size: https://www.linkedin.com/pulse/music-production-software-market-size-projected-loqtf/
+7. Future Data Stats on LinkedIn about AI in Music Market Dynamics: https://www.linkedin.com/pulse/music-audio-ai-market-dynamics-industry-insight-future-data-stats-70dzf/
+8. Music Licensing Solution Market Size 2023 by Market Statsville Group (MSG) on LinkedIn: https://www.linkedin.com/pulse/music-licensing-solution-market-size-expected-grow-cagr-ahirwar/
+9. AudioShake FAQ & NAM Conference Panel Discussion on LinkedIn: https://www.linkedin.com/posts/audioshake_ai-music-creation-activity-7167952439667621888-LqKa/
+10. AudioShake ASR Model Blog Post: https://www.audioshake.ai/post/new-benchmark-for-higher-quality-lyrics-transcription-from-audioshake-research
+11. Piano Stems Research at AudioShake: https://www.audioshake.ai/post/piano-stems-research-classical-music-pop
+12. General Tech Overview at AudioShake: https://www.audioshake.ai/post/doubling-down-on-dubbing
+13. Time Magazine Best Invention of 2023, AudioShake: https://www.audioshake.ai/post/audioshake-named-a-time-best-invention-of-2023
